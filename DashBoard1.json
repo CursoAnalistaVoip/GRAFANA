@@ -1,4 +1,4 @@
-{
+
   "annotations": {
     "list": [
       {
@@ -24,7 +24,7 @@
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 2,
-  "id": 3,
+  "id": 6,
   "links": [
     {
       "asDropdown": true,
@@ -44,7 +44,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -57,7 +57,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -145,7 +146,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -158,7 +159,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -246,7 +248,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -258,7 +260,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "red"
+                "color": "red",
+                "value": null
               },
               {
                 "color": "green",
@@ -348,7 +351,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -360,7 +363,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "red"
+                "color": "red",
+                "value": null
               },
               {
                 "color": "green",
@@ -450,7 +454,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -493,7 +497,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -577,7 +582,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -590,7 +595,8 @@
             "mode": "percentage",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -689,7 +695,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -702,7 +708,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -790,7 +797,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -803,7 +810,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -891,7 +899,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -904,7 +912,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -992,7 +1001,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -1004,7 +1013,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -1139,7 +1149,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -1152,7 +1162,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "red"
+                "color": "red",
+                "value": null
               },
               {
                 "color": "green",
@@ -1242,7 +1253,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -1255,7 +1266,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -1343,7 +1355,7 @@
     {
       "datasource": {
         "type": "alexanderzobnin-zabbix-datasource",
-        "uid": "HtOPnGrnk"
+        "uid": "_Y2wCQXnz"
       },
       "fieldConfig": {
         "defaults": {
@@ -1356,7 +1368,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "semi-dark-blue",
@@ -1446,7 +1459,10 @@
       "bars": false,
       "dashLength": 10,
       "dashes": false,
-      "datasource": {},
+      "datasource": {
+        "type": "alexanderzobnin-zabbix-datasource",
+        "uid": "_Y2wCQXnz"
+      },
       "fill": 1,
       "fillGradient": 3,
       "gridPos": {
@@ -1580,8 +1596,8 @@
   },
   "timepicker": {},
   "timezone": "",
-  "title": "Novo PAinel Asterisk 16 PJSIP2",
-  "uid": "QU5c1eu7k2",
-  "version": 4,
+  "title": "Novo PAinel Asterisk 16 PJSIP",
+  "uid": "QU5c1eu7k",
+  "version": 35,
   "weekStart": ""
 }
